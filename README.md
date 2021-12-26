@@ -2,7 +2,7 @@
 
 ## Contents
 
-- vim (NeoVim) config
+- `init.vim` vim (NeoVim) config
 - tmux config
 
 ## How to use
